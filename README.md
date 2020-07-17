@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá! 
 
-<!--
-**mendesmcmg/mendesmcmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formada em Relações Internacionais e atualmente estudante de graduação de Ciência da Computação na Universidade de Brasília. Comecei a ter contato com programação pela primeira vez no final de 2019.    
 
-Here are some ideas to get you started:
+### Atualmente trabalho com  
+Desenvolvimento Web na empresa júnior de computação, CJR. Além de executar projetos, temos capacitações continuamente para usar determinados recursos e tecnologias.        
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que uso (linguagens e ferramentas)    
+
+#### Front end  
+HTML, CSS, JavaScript e React JS    
+
+#### Back end  
+Ruby e Ruby on Rails, C    
+
+#### Outros  
+Git, Scrum, Gerenciamento de projetos   
+
+### Contato  
+mariaclara.mendes@gmail.com
