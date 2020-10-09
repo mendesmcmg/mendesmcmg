@@ -11,7 +11,7 @@ Desenvolvimento Web na empresa júnior de computação, CJR. Além de executar p
 HTML, CSS, JavaScript e React JS    
 
 #### Back end  
-Ruby e Ruby on Rails, C    
+Ruby e Ruby on Rails, C, Python    
 
 #### Outros  
 Git, Scrum, Gerenciamento de projetos   
