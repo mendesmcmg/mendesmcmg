@@ -18,4 +18,3 @@ Git, Scrum, Gerenciamento de projetos
 
 ### Contato  
 mariaclara.mendes@gmail.com
-claraplanejamento@gmail.com
