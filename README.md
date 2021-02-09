@@ -8,10 +8,10 @@ Desenvolvimento Web na empresa júnior de computação, CJR. Além de executar p
 ### Tecnologias que uso (linguagens e ferramentas)    
 
 #### Front end  
-HTML, CSS, JavaScript e React JS    
+HTML, CSS, SCSS, JavaScript e React JS    
 
 #### Back end  
-Ruby e Ruby on Rails, C, Python    
+Ruby e Ruby on Rails, C, C++, Python    
 
 #### Outros  
 Git, Scrum, Gerenciamento de projetos   
