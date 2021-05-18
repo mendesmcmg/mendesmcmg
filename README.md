@@ -1,20 +1,20 @@
-### Olá! 
+### :wave: Olá! 
 
 Sou formada em Relações Internacionais e atualmente estudante de graduação de Ciência da Computação na Universidade de Brasília. Comecei a ter contato com programação pela primeira vez no final de 2019.    
 
-### Atualmente trabalho com  
+### :computer: Atualmente trabalho com  
 Desenvolvimento Web na empresa júnior de computação, CJR. Além de executar projetos, temos capacitações continuamente para usar variados recursos e tecnologias.        
 
-### Tecnologias que uso (linguagens e ferramentas)    
+### :wrench: Tecnologias que uso (linguagens e ferramentas)    
 
-#### Front end  
+#### :art: Front end  
 HTML, CSS, SCSS, JavaScript e React JS    
 
-#### Back end  
+#### 🎲 Back end  
 Ruby e Ruby on Rails, C, C++, Python    
 
-#### Outros  
+#### :open_file_folder: Outros  
 Git, Scrum, Gerenciamento de projetos   
 
-### Contato  
+### :mailbox: Contato  
 mariaclara.mendes@gmail.com
