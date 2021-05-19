@@ -1,9 +1,13 @@
-### :wave: Olá! 
+<img src="https://media.giphy.com/media/Ec5RkrmARxPmTuXgrZ/giphy.gif" alt="learn new things" width="250" height="250" align="right"/>
+
+# :wave: Olá, meu nome é Clara Mendes! 
 
 Sou formada em Relações Internacionais e atualmente estudante de graduação de Ciência da Computação na Universidade de Brasília. Comecei a ter contato com programação pela primeira vez no final de 2019.    
 
-### :computer: Atualmente trabalho com  
-Desenvolvimento Web na empresa júnior de computação, CJR. Além de executar projetos, temos capacitações continuamente para usar variados recursos e tecnologias.        
+### :computer: Atualmente participo de
+* Mentoria de Programação competitiva BOSS, como mentoranda
+* Monitoria da disciplina Algoritmos e Programação de Computadores
+* Mentoria de Chatbots da BOSS, como mentoranda        
 
 ### :wrench: Tecnologias que uso (linguagens e ferramentas)    
 
