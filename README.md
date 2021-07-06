@@ -7,7 +7,6 @@ Sou formada em Relações Internacionais e atualmente estudante de graduação d
 ### :computer: Atualmente participo de
 * Mentoria de Programação competitiva BOSS, como mentoranda
 * Monitoria da disciplina Algoritmos e Programação de Computadores
-* Mentoria de Chatbots da BOSS, como mentoranda        
 
 ### :wrench: Tecnologias que uso (linguagens e ferramentas)    
 
