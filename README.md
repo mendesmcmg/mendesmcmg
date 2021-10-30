@@ -1,6 +1,4 @@
 <img src="https://media.giphy.com/media/Ec5RkrmARxPmTuXgrZ/giphy.gif" alt="learn new things" width="250" height="250" align="right"/>  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mendesmcmg&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendesmcmg&layout=compact&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)
 
 # :wave: Olá, meu nome é Clara Mendes! 
 
