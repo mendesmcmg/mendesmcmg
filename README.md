@@ -1,10 +1,4 @@
 <img src="https://media.giphy.com/media/Ec5RkrmARxPmTuXgrZ/giphy.gif" alt="learn new things" width="250" height="250" align="right"/>  
-<div align="center">
-  <a href="https://github.com/mendesmcmg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendesmcmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesmcmg&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 
 # :wave: Olá, meu nome é Clara Mendes! 
 
