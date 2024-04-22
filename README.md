@@ -2,7 +2,7 @@
 
 # :wave: Olá, meu nome é Clara Mendes! 
 
-Sou estudante de graduação de Ciência da Computação na Universidade de Brasília. Comecei a ter contato com programação pela primeira vez no final de 2019, e trabalho na [Ribon](dapp.ribon.io) desde 2021, desenvolvendo para web com o uso de React Native e Ruby on Rails.    
+Sou estudante de graduação de Ciência da Computação na Universidade de Brasília. Comecei a ter contato com programação pela primeira vez no final de 2019, e trabalho na [Ribon](https://dapp.ribon.io) desde 2021, desenvolvendo para web com o uso de React Native e Ruby on Rails.    
 
 ### :wrench: Tecnologias que uso (linguagens e ferramentas)    
 
