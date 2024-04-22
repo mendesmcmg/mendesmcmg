@@ -2,7 +2,7 @@
 
 # :wave: Olá, meu nome é Clara Mendes! 
 
-Sou formada em Relações Internacionais e atualmente estudante de graduação de Ciência da Computação na Universidade de Brasília. Comecei a ter contato com programação pela primeira vez no final de 2019.    
+Sou estudante de graduação de Ciência da Computação na Universidade de Brasília. Comecei a ter contato com programação pela primeira vez no final de 2019, e trabalho na [Ribon](https://app.ribon.io/referral/83159) desde 2021.    
 
 ### :computer: Atualmente 
 Sou estagiária de desenvolvimento web na [Ribon](https://app.ribon.io/referral/83159)
