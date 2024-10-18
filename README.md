@@ -7,10 +7,10 @@ I’m currently pursuing a degree in Computer Science at the University of Bras�
 ### :wrench: Technologies I use (languages and tools)    
 
 #### :art: Frontend  
-HTML, CSS, SCSS, JavaScript e React JS    
+HTML, CSS, SCSS, JavaScript, TypeScript, React.js and React Native    
 
 #### 🎲 Backend  
-Ruby e Ruby on Rails, C, C++, Python    
+Ruby, Ruby on Rails, C, C++, Python    
 
 #### :open_file_folder: Others  
 Git, Scrum, Project management   
