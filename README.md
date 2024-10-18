@@ -16,5 +16,5 @@ Ruby, Ruby on Rails, C, C++, Python
 Git, Scrum, Project management   
 
 ### :mailbox: Contact  
-mariaclara.mendes@gmail.com  
+mariaclaramendes@gmail.com  
 mariaclaramendes@protonmail.com
