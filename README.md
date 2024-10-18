@@ -1,20 +1,20 @@
 <img src="https://media.giphy.com/media/Ec5RkrmARxPmTuXgrZ/giphy.gif" alt="learn new things" width="250" height="250" align="right"/>  
 
-# :wave: Olá, meu nome é Clara Mendes! 
+# :wave: Hi, I'm Clara Mendes! 
 
-Sou estudante de graduação de Ciência da Computação na Universidade de Brasília. Comecei a ter contato com programação pela primeira vez no final de 2019, e trabalho na [Ribon](https://dapp.ribon.io) desde 2021, desenvolvendo para web com o uso de React Native e Ruby on Rails.    
+I’m currently pursuing a degree in Computer Science at the University of Brasília. I first dove into programming in late 2019 and have been developing professionally since 2021 at Ribon, where I work on web applications using React Native and Ruby on Rails.    
 
-### :wrench: Tecnologias que uso (linguagens e ferramentas)    
+### :wrench: Technologies I use (languages and tools)    
 
-#### :art: Front end  
+#### :art: Frontend  
 HTML, CSS, SCSS, JavaScript e React JS    
 
-#### 🎲 Back end  
+#### 🎲 Backend  
 Ruby e Ruby on Rails, C, C++, Python    
 
-#### :open_file_folder: Outros  
-Git, Scrum, Gerenciamento de projetos   
+#### :open_file_folder: Others  
+Git, Scrum, Project management   
 
-### :mailbox: Contato  
+### :mailbox: Contact  
 mariaclara.mendes@gmail.com  
 mariaclaramendes@protonmail.com
